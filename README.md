@@ -6,7 +6,7 @@ Welcome to **HLAhub**, a next-gen healthtech platform that matches organ donors 
 
 ## 🎥 Live Demo Video
 
-[![Watch the Demo](https://youtu.be/VxlZfOOHRCc?si=igu20yckIX9MRe7L)
+[[Watch the Demo](https://youtu.be/VxlZfOOHRCc?si=igu20yckIX9MRe7L)
 
 ---
 
