@@ -3,7 +3,7 @@
 Welcome to **HLAhub**, a next-gen healthtech platform that matches organ donors and recipients using HLA data – all while celebrating these real-life heroes on Reddit. Think of it as Web2, Web3, and AI having a productive weekend together (with snacks, obviously 🍿).
 
 <p align="center">
-  <img src="https://your-image-url.com/hla-banner.png" alt="HLAhub Banner" width="100%" />
+  <img src="HLA HUB DIAGRQ.png" alt="HLAhub Banner" width="100%" />
 </p>
 ---
 
